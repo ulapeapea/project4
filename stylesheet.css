@@ -1,15 +1,20 @@
 <style>
 ul {
 	h1
-	front-size: 420%;
+	front-size: 620%;
 	
 }
 h2 {
-	front-size: 400%;
-	
+	front-size: 600%;
+	color : white;
+}
+h1 {
+	front-size: 600%;
+	color: white;
 }
 p {
 	front-size: 400%;
+	color: white;
 }
 body {
 	background-image: url
